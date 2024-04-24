@@ -1,3 +1,7 @@
+## 0.1.3
+
+- (iOS): Support for Privacy Manifest
+
 ## 0.1.2
 
 - Bumped kotlin from 1.3.72 to 1.7.21
